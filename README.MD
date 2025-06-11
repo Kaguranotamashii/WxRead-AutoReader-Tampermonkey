@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="image.png" alt="项目图标" width="120" />
+<img src="image.png" alt="项目图标" width="300" />
 
 **🚀 高性能微信读书自动阅读器**
 
